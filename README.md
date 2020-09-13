@@ -1,4 +1,4 @@
-# Hi, ben Enes BAŞKAYA. 👋
+# Hi, I am Enes BAŞKAYA. 👋
 🐦 [Twitter][Twitter] **|** 
 📷 [Instagram][Instagram] **|** 
 👔 [Linkedin][Linkedin] **|** 
