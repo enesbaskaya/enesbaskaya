@@ -1,16 +1,20 @@
-### Hi there 👋
+# Selam, ben Enes BAŞKAYA. 👋
+🐦 [Twitter][Twitter] **|** 
+📷 [Instagram][Instagram] **|** 
+👔 [Linkedin][Linkedin] **|** 
+📧 [enesbsky@gmail.com]
 
-<!--
-**enesbaskaya/enesbaskaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[twitter]: https://twitter.com/enesbaskayaa
+[instagram]: https://instagram.com/enesbaskayaa
+[linkedin]: https://linkedin.com/in/enesnbaskaya
 
-Here are some ideas to get you started:
+# Interests
+[![](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python)]()
+[![](https://img.shields.io/badge/pandas-cD1?style=for-the-badge&logo=pandas)]()
+[![](https://img.shields.io/badge/numpy-cD1?style=for-the-badge&logo=numpy)]()
+[![](https://img.shields.io/badge/mysql-cD1?style=for-the-badge&logo=mysql)]()
+[![](https://img.shields.io/badge/flutter-cD1?style=for-the-badge&logo=flutter)]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# What Have I Done
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=enesbaskaya&show_icons=true" alt="enesbaskaya" /> </p> 
+
