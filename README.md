@@ -1,8 +1,4 @@
 # Hi, I am Enes BAŞKAYA. 👋
-🐦 [Twitter][Twitter] **|** 
-📷 [Instagram][Instagram] **|** 
-👔 [Linkedin][Linkedin] **|** 
-📧 [enesbsky@gmail.com]
 
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/enesbaskayaa)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enesbaskaya/)
