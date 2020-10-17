@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/enesbaskayaa)
 [![Mail Badge](https://img.shields.io/badge/enesbsky@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:enesbsky@gmail.com)](mailto:enesbsky@gmail.com)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=selmanbaskaya" alt="selmanbaskaya" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=enesbaskaya" alt="enesbaskaya" /> </p>
 
 # Interests
 [![](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python)]()
