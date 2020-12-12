@@ -15,6 +15,5 @@
 [![](https://img.shields.io/badge/postgresql-cD1?style=for-the-badge&logo=postgresql)]()
 [![](https://img.shields.io/badge/flutter-cD1?style=for-the-badge&logo=flutter)]()
 
-# What Have I Done
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=enesbaskaya&show_icons=true" alt="enesbaskaya" /> </p> 
+
 
