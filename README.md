@@ -6,7 +6,7 @@
 [![Mail Badge](https://img.shields.io/badge/enesbsky@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:enesbsky@gmail.com)](mailto:enesbsky@gmail.com)
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=enesbaskaya&show_icons=true&theme=merko">
-
+<br><br>
 # Interests
 [![](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python)]()
 [![](https://img.shields.io/badge/pandas-cD1?style=for-the-badge&logo=pandas)]()
