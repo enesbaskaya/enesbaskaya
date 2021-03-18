@@ -18,3 +18,6 @@
 [![](https://img.shields.io/badge/mysql-cD1?style=for-the-badge&logo=mysql)]()
 [![](https://img.shields.io/badge/postgresql-cD1?style=for-the-badge&logo=postgresql)]()
 [![](https://img.shields.io/badge/flutter-cD1?style=for-the-badge&logo=flutter)]()
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesbaskaya&layout=compact&hide=html" alt="enesbaskaya" /></p>
