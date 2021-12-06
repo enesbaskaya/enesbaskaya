@@ -17,6 +17,8 @@
 [![](https://img.shields.io/badge/firebase-cD1?style=for-the-badge&logo=firebase)]()
 [![](https://img.shields.io/badge/mobx-cD1?style=for-the-badge&logo=mobx)]()
 [![](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python)]()
+[![](https://img.shields.io/badge/php-cD1?style=for-the-badge&logo=php)]()
+[![](https://img.shields.io/badge/laravel-cD1?style=for-the-badge&logo=laravel)]()
 [![](https://img.shields.io/badge/pandas-cD1?style=for-the-badge&logo=pandas)]()
 [![](https://img.shields.io/badge/numpy-cD1?style=for-the-badge&logo=numpy)]()
 [![](https://img.shields.io/badge/mysql-cD1?style=for-the-badge&logo=mysql)]()
