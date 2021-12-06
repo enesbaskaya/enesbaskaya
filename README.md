@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enesbaskaya" alt="enesbaskaya" /> </p>
 
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=enesbaskaya&show_icons=true&theme=merko">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=enesbaskaya&show_icons=true&theme=dark">
 
 
 # Interests
