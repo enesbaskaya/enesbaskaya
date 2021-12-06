@@ -12,12 +12,16 @@
 
 
 # Interests
+[![](https://img.shields.io/badge/dart-cD1?style=for-the-badge&logo=dart)]()
+[![](https://img.shields.io/badge/flutter-cD1?style=for-the-badge&logo=flutter)]()
+[![](https://img.shields.io/badge/firebase-cD1?style=for-the-badge&logo=firebase)]()
+[![](https://img.shields.io/badge/mobx-cD1?style=for-the-badge&logo=mobx)]()
 [![](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python)]()
 [![](https://img.shields.io/badge/pandas-cD1?style=for-the-badge&logo=pandas)]()
 [![](https://img.shields.io/badge/numpy-cD1?style=for-the-badge&logo=numpy)]()
 [![](https://img.shields.io/badge/mysql-cD1?style=for-the-badge&logo=mysql)]()
 [![](https://img.shields.io/badge/postgresql-cD1?style=for-the-badge&logo=postgresql)]()
-[![](https://img.shields.io/badge/flutter-cD1?style=for-the-badge&logo=flutter)]()
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesbaskaya&layout=compact&hide=html" alt="enesbaskaya" /></p>
